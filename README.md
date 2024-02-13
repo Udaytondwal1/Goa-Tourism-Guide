@@ -5,7 +5,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://udaytondwal1.github.io/Goa-Tourism-Guide/](https://udaytondwal1.github.io/Goa-Tourism-Guide/)
+[https://goa-tourism-guide.vercel.app/index.html](https://goa-tourism-guide.vercel.app/index.html)
 
   
   
